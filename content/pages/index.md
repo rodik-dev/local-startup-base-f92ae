@@ -93,7 +93,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     media:
-      url: /images/hero-3.jpg
+      url: /images/careers.jpg
       altText: Where did everyone go?
       caption: Team meeting
       elementId: ''
