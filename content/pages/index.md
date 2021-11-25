@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/careers.jpg
       altText: Image alt text
       caption: Image caption
     styles:
