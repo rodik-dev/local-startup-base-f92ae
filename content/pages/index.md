@@ -7,9 +7,29 @@ sections:
     colors: colors-a
     title: 'Love where you work, because work loves you2'
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      # Hello Title
+
+
+      Hello paragraph.
+
+
+      **One bold**, one community, *one italics*. 
+
+
+      > To quote all quotes
+
+
+      getting to the bottom line of everything employment.  
+
+
+      *   listing 1
+
+
+      *   listing 2
+
+
+      Figure out your benefits, practice for interviews, get mentored, help
+      peers, get helped in return.
     actions:
       - type: Button
         label: Sign up
