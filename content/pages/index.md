@@ -9,11 +9,11 @@ sections:
     text: |
       # Hello Title
 
-      This is some paragraph1
+      This is some paragraph
 
       This is bold, this is america, this is italics.
 
-      > this is a b1lockquote
+      > this is a blockquote
 
       this is a list:
 
