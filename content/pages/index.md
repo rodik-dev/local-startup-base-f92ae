@@ -9,13 +9,11 @@ sections:
     text: |
       # Hello Title
 
-      This is some paragraph
+      This is some paragraph1
 
       This is bold, this is america, this is italics.
 
       > this is a blockquote
-
-
 
       this is a list:
 
@@ -24,7 +22,8 @@ sections:
       *   list 2
 
       *   list 3
-      * list 4
+
+      *   list 4
 
       This is a [link](https://www.google.com)
     actions:
