@@ -6,7 +6,8 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'Love where you work, because work loves you2'
-    text: '123'
+    text: |
+      12334
     actions:
       - type: Button
         label: Sign up
