@@ -24,6 +24,7 @@ sections:
       *   list 2
 
       *   list 3
+      * list 4
 
       This is a [link](https://www.google.com)
     actions:
