@@ -24,7 +24,6 @@ sections:
 
       *   listing 1
 
-
       *   listing 2
 
       * hellow?
