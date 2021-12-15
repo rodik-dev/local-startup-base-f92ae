@@ -10,7 +10,7 @@ sections:
       # Hello Title
 
 
-      Hello paragraph.123
+      Hello paragraph.
 
 
       **One bold**, one community, *one italics*.
