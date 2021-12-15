@@ -6,31 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'Love where you work, because work loves you2'
-    text: >-
-      # Hello Title
-
-
-      Hello paragraph.
-
-
-      **One bold**, one community, *one italics*.
-
-
-      > To quote all quotes
-
-
-      getting to the bottom line of [everything employment](www.google.com).
-
-
-      *   listing 1
-
-      *   listing 2
-
-      * hellow?
-
-
-      Figure out your benefits, practice for interviews, get mentored, help
-      peers, get helped in return.
+    text: '123'
     actions:
       - type: Button
         label: Sign up
