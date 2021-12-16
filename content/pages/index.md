@@ -7,12 +7,20 @@ sections:
     colors: colors-a
     title: 'Love where you work, because work loves you2'
     text: |
-      # asdfasdfasdf
+      # Hello Title1
 
+      This is some paragraph123
+      This is bold, this is america, this is italics.
 
-      asdf
-      as
-      dfasdfa
+      > this is a blockquote
+
+      This is a list:
+
+      *   list 1
+      *   list 2
+      *   list 3
+      *   list 4
+          This is a [link](https://www.google.com)
     actions:
       - type: Button
         label: Sign up
