@@ -10,7 +10,8 @@ sections:
       # Hello Title1
 
       This is some paragraph123
-      This is bold, this is america, this is italics.
+
+      **This is bold**, *this is italics*, this is america.
 
       > this is a blockquote
 
@@ -20,7 +21,8 @@ sections:
       *   list 2
       *   list 3
       *   list 4
-          This is a [link](https://www.google.com)
+
+      This is a [link](https://www.google.com)
     actions:
       - type: Button
         label: Sign up
