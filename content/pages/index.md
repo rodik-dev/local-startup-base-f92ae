@@ -11,7 +11,7 @@ sections:
 
       This is some paragraph
 
-      ![title here](/favicon.svg)
+      ![](/favicon.svg "title here")
 
       **This is bold**, *this is italics*, this is america.
 
