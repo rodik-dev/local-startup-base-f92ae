@@ -6,7 +6,8 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     title: 'Love where you work, because work loves you'
-    text: |
+    text: |-
+      ### Title
       One platform, one community.
     actions:
       - type: Button
