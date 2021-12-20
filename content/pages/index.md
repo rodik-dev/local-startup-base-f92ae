@@ -11,8 +11,6 @@ sections:
 
       This is some paragraph
 
-      ![](/favicon.svg "title here")
-
       **This is bold**, *this is italics*, this is america.
 
       > this is a blockquote
