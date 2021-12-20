@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love where you work, because work loves you2'
+    title: 'Love where you work, because work loves you'
     text: |
       # Hello Title121231234
 
