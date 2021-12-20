@@ -7,9 +7,9 @@ sections:
     colors: colors-a
     title: 'Love where you work, because work loves you'
     text: |
-      # Hello Title121231234
+      # Hello Title
 
-      This is some paragraph1234
+      This is some paragraph
 
       **This is bold**, *this is italics*, this is america.
 
